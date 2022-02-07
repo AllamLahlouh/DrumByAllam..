@@ -1,0 +1,68 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #3f2d75;
+    text-align: center;
+    justify-content: center;
+}
+
+.tomHeader {
+    padding: 100px 0px 50px 0px;
+}
+
+.tomHeaderText {
+    font-family: 'Supermercado One', cursive;
+    color: #ff8800;
+    font-size: 7rem;
+    font-weight: 900;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.middlePlays {
+    padding: 50px 0px 100px 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+.middlePlaysButtons {
+    margin: 0.625rem 1.5625rem 0.625rem 1.5625rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 20%;
+    border-width: 0.6rem;
+    border-color: #ff8800;
+    font-size: 5rem;
+    font-weight: 700;
+    color: #4000ff;
+    
+}
+
+.buttomPText {
+    font-family: 'Supermercado One', cursive;
+    color: #ff8800;
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.clickedButton {
+    margin: 0.625rem 1.5625rem 0.625rem 1.5625rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 20%;
+    border-width: 0.6rem;
+    border-color: #ffaf53;
+    font-size: 5rem;
+    font-weight: 700;
+    color: #4000ff;
+    
+}
+
+
+/*   font-family: 'Supermercado One', cursive;   h1 family*/
+
